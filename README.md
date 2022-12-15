@@ -4,3 +4,6 @@
 <p>Aqui no perfil temos diversos projetos e atividades que faço utilizando Javascript e Python</p> 
 <p>Hard skills: Javascript, Python, Node.js, Bootstrap, Sass, CSS3, HTML5</p> 
 <p>Soft skills: Criativo, Autodidata, Ágil, Boa comunicação e Inglês Avançado</p>
+<br>
+Veja abaixo alguns Projetos!
+                           
