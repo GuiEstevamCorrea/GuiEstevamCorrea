@@ -1,9 +1,9 @@
-<h1>Olá Bem_Vindo(a) ao meu perfil</h1>
-<p>Me chamo Guilherme e tenho 21 anos</p>  
-<p>Sou aluno de Engenharia de Software e Análise e Desenvolvimento de Sistemas.</p> 
-<p>Aqui no perfil temos diversos projetos e atividades que faço utilizando Javascript e Java</p> 
-<p>Hard skills: Java, Javascript, Python, Node.js, Bootstrap, Sass, CSS3, HTML5</p> 
-<p>Soft skills: Criativo, Autodidata, Ágil, Boa comunicação e Inglês Avançado</p>
+<h1>Hello welcome to my profile</h1>
+<p>My name is Guilherme and I'm 21 years old</p>  
+<p>I am a student of Software Engineering and Systems Analysis and Development</p> 
+<p>Here on the profile we have several projects and activities that I do using some languagesp> 
+<p>Hard skills: Java, Javascript, Node.js, Bootstrap, Sass, CSS3, HTML5</p> 
+<p>Soft skills: Creative, Self-taught, Agile, Good communication and Advanced Englishp>
 <br>
-Veja abaixo alguns Projetos!
+See some projects below!
                            
