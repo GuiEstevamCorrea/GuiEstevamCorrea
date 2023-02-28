@@ -1,8 +1,8 @@
 ### Hi, My name is Guilherme 👋
-<h5>I am a Software Engineering student looking for opportunities and collaboration in projects related to the area.</h5>
-<h6>- 🔭 I'm looking to collaborate on software and database engineering projects</h6>
-<h6>- 🌱 I am currently learning Java OOP, Databases and Operating Systems</h6>
-<h6>- 🤝 I'm looking to improve my skills and develop new projects.</h6>
+<h4>I am a Software Engineering student looking for opportunities and collaboration in projects related to the area.</h4>
+<h5>- 🔭 I'm looking to collaborate on software and database engineering projects</h5>
+<h5>- 🌱 I am currently learning Java OOP, Databases and Operating Systems</h5>
+<h5>- 🤝 I'm looking to improve my skills and develop new projects.</h5>
 <p>_________________________________________________________________________________________________________</p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GuiEstevamCorrea)    
