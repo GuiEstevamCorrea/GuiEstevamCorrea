@@ -1,11 +1,8 @@
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+I am a Software Engineering student looking for opportunities and collaboration in projects related to the area.
+- 🔭 I'm looking to collaborate on software and database engineering projects
+- 🌱 I am currently learning Java OOP, Databases and Operating Systems
+- 🤝 I'm looking to improve my skills and develop new projects.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GuiEstevamCorrea)
 
