@@ -1,5 +1,5 @@
 <h1> Hi, My name is Guilherme 👋 </h1>
-<h3> 💻 I am a Software Engineering student looking for opportunities and collaboration in projects related to the area.</h3>
+<h3> 💻 I am a Software Engineering student looking for opportunities and collaboration in projects.</h3>
 <h4>- 💼 I'm looking to collaborate on software and database engineering projects</h4>
 <h4>- 🌱 I am currently learning Java OOP, Databases and Operating Systems</h4>
 <h4>- 🚀 I'm looking to improve my skills and develop new projects.</h4>
