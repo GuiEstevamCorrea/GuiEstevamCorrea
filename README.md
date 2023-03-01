@@ -3,7 +3,7 @@
 <h4>- 💼 I'm looking to collaborate on software and database engineering projects</h4>
 <h4>- 🌱 I am currently learning Java OOP, Databases and Operating Systems</h4>
 <h4>- 🚀 I'm looking to improve my skills and develop new projects.</h4>
-<p>_________________________________________________________________________________________________________</p>
+<p>____________________________________________________________________________________________</p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GuiEstevamCorrea)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEstevamCorrea&layout=compact)](https://github.com/GuiEstevamCorrea/github-readme-stats)
