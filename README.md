@@ -9,8 +9,8 @@
   <h2>Projects and Freelance Work</h2>
 
   <ul>
-    <li><a href="https://github.com/GuiEstevamCorrea/BitBucket_Films">BitBucket Films</a>: Movie rental website using React.js, Javascript, Java, Spring Boot.</li>
-    <li><a href="https://github.com/GuiEstevamCorrea/workshop-springboot3-jpa">Order Management Application</a>: This is a sample Order Management Application built using Java, Spring Boot, Maven, Hibernate, and H2/PostgreSQL database.</li>
+    <li><a href="https://github.com/GuiEstevamCorrea/BitBucket_Films">BitBucket Films</a>: Movie rental website using React.js, Javascript, Java, Spring Boot.</li><br/>
+    <li><a href="https://github.com/GuiEstevamCorrea/workshop-springboot3-jpa">Order Management Application</a>: This is a sample Order Management Application built using Java, Spring Boot, Maven, Hibernate, and H2/PostgreSQL database.</li><br/>
     <li><a href="https://github.com/GuiEstevamCorrea/spaceX_project">SpaceX Project</a>: This is a SpaceX project built using HTML, CSS, Bootstrap, and Sass. It is a web application that provides information about SpaceX missions, rockets, and launches.</li>
   </ul>
 
