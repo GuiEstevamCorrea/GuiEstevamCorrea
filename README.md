@@ -15,7 +15,7 @@
     <li><a href="https://github.com/GuiEstevamCorrea/GOL_Project">Game of Life</a>: Conway's Game of Life implementation in Java, simulating cellular automata with simple rules and creating emergent patterns.</li>
   </ul>
 
-  <h2>Contact Me</h2>
+  <br/><h2>Contact Me</h2>
 
   <p>You can reach out to me through the following platforms:</p>
 
@@ -24,7 +24,7 @@
     <li><strong>Email</strong>: <a href="mailto:guilhermecorrea.2002@hotmail.com">guilhermecorrea.2002@hotmail.com</a></li>
   </ul>
 
-  <p>Feel free to explore my repositories and contributions here on GitHub. I am open to collaboration and would love to hear your feedback or suggestions on my projects. Thank you for visiting my profile!</p>
+  <br/><p>Feel free to explore my repositories and contributions here on GitHub. I am open to collaboration and would love to hear your feedback or suggestions on my projects. Thank you for visiting my profile!</p>
 </body>
 
 </html>
