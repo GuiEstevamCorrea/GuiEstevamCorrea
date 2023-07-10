@@ -15,7 +15,7 @@
     <li><a href="https://github.com/GuiEstevamCorrea/GOL_Project">Game of Life</a>: Conway's Game of Life implementation in Java, simulating cellular automata with simple rules and creating emergent patterns.</li>
   </ul>
 
-  <br/><h2>Contact Me</h2>
+  <h2>Contact Me</h2>
 
   <p>You can reach out to me through the following platforms:</p>
 
