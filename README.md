@@ -21,7 +21,6 @@
 
   <ul>
     <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/guiestevamcorrea/">GuiEstevamCorrea</a></li>
-    <li><strong>Email</strong>: <a href="mailto:guilhermecorrea.2002@hotmail.com">guilhermecorrea.2002@hotmail.com</a></li>
   </ul>
 
   <br/><p>Feel free to explore my repositories and contributions here on GitHub. I am open to collaboration and would love to hear your feedback or suggestions on my projects. Thank you for visiting my profile!</p>
