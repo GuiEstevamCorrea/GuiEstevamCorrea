@@ -23,7 +23,7 @@
     <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/guiestevamcorrea/">GuiEstevamCorrea</a></li>
   </ul>
 
-  <br/><p>Feel free to explore my repositories and contributions here on GitHub. I am open to collaboration and would love to hear your feedback or suggestions on my projects. Thank you for visiting my profile!</p>
+  <p>Feel free to explore my repositories and contributions here on GitHub. I am open to collaboration and would love to hear your feedback or suggestions on my projects. Thank you for visiting my profile!</p>
 </body>
 
 </html>
