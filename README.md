@@ -20,7 +20,7 @@
   <p>You can reach out to me through the following platforms:</p>
 
   <ul>
-    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/guiestevamcorrea/">GuiEstevamCorrea</a></li>
+    <li target="_blank"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/guiestevamcorrea/">GuiEstevamCorrea</a></li>
   </ul>
 
   <p>Feel free to explore my repositories and contributions here on GitHub. I am open to collaboration and would love to hear your feedback or suggestions on my projects. Thank you for visiting my profile!</p>
