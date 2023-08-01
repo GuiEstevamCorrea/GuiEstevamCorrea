@@ -1,30 +1,38 @@
 # Hello, I'm Guilherme. Welcome to my GitHub Profile! 👋
 
-Hello there! I'm a full stack developer, currently pursuing a degree in Software Engineering, and I have a background in Analysis and Systems Development. I am always eager to apply my knowledge and skills in real-world projects, including freelance work. I am actively seeking opportunities in the field and continuously expanding my expertise in various technologies.
+I'm a Software Engineering student passionate about technology and software development, I also have a degree in Systems Analysis and Development.
 <br/>
 
-👩‍💻 I currently work as a Freelancer
+# 🎓 Training:
 
-🧠 I'm learning about React.js and Typescript
-<br/><br/>
-## 🛠 Skills
-My main technologies are: Typescript, React.js, Next.js and Node.js.
+- Software Engineering (In progress)
+- Systems Analysis and Development (Graduated)
+<br/>
 
-In addition to the knowledge mentioned above, I also work with the following technologies and tools:
-- Javascript, React Native and Vue.js
-- Javascript Libraries: Express.js, Axios, Redux, jQuery, Jest/Cypress and others...
-- Java, Spring, Angular, Maven, Hibernate and TomCat
-- UI/UX design
-- HTML, CSS, Tailwind, Bulma, Bootstrap and Sass
-- APIs: RESTful, SOAP, GraphQL and WebSockets
-- Webservices and Microservices
-- MVC and MVVM architecture, CI/CD, Unit Tests
-- SQL and NoSQL databases
-- Docker, Postman, Figma
-- Git, GitHub and GitLab
+# 💻 Skills:
+As a Full-Stack developer, I have experience in both front-end and back-end development. I have knowledge in several technologies and languages, including:
 
+- Front-End: JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, HTML, CSS, Tailwind CSS, Bulma, Bootstrap, Sass, UI/UX design
+- Back-End: JavaScript (Node.js), TypeScript (Node.js), Express.js, Java, Spring Framework, Hibernate, Tomcat
+- JavaScript Libraries: Axios, Redux, jQuery, Jest, Cypress and Others...
+- APIs and Protocols: RESTful, SOAP, GraphQL, WebSockets
+- Architecture and Practices: MVC, MVVM, CI/CD, Unit Testing
+- Database: SQL databases and NoSQL databases
+- Tools and Platforms: Docker, Postman, Figma
+- Version Control: Git, GitHub, GitLab
 
+<br/>
+  
+# 🚀 Projects:
+On my GitHub you will find a variety of projects that demonstrate my skills and interest in different areas of Software Engineering. I'm always looking to learn new technologies and improve my skills.
 
-## 🔗 Links
+<br/>
+
+# 🌱 Goals:
+I'm constantly evolving and improving to become an even more competent developer. My goal is to contribute to open-source projects, learn from the GitHub community, and share my own projects to help other developers.
+
+Feel free to explore my repositories and get in touch. I am open to collaborations and discussions about technology and software development. Let's learn and grow together! 🤝
+
+<br/>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiestevamcorrea/ )
