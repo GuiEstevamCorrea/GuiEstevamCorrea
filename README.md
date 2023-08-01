@@ -1,6 +1,6 @@
 # Hello, I'm Guilherme. Welcome to my GitHub Profile! 👋
 
-I'm a Software Engineering student passionate about technology and software development, I also have a degree in Systems Analysis and Development.
+I'm a Software Engineering student, graduated in Systems Analysis and Development, passionate about technology and software development.
 <br/>
 
 # 🎓 Training:
@@ -13,7 +13,7 @@ I'm a Software Engineering student passionate about technology and software deve
 As a Full-Stack developer, I have experience in both front-end and back-end development. I have knowledge in several technologies and languages, including:
 
 - Front-End: JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, HTML, CSS, Tailwind CSS, Bulma, Bootstrap, Sass, UI/UX design
-- Back-End: JavaScript (Node.js), TypeScript (Node.js), Express.js, Java, Spring Framework, Hibernate, Tomcat
+- Back-End: JavaScript (Node.js), TypeScript (Node.js), Express.js, Java, Spring Framework, Maven, Hibernate, Tomcat
 - JavaScript Libraries: Axios, Redux, jQuery, Jest, Cypress and Others...
 - APIs and Protocols: RESTful, SOAP, GraphQL, WebSockets
 - Architecture and Practices: MVC, MVVM, CI/CD, Unit Testing
