@@ -12,15 +12,15 @@ I'm a Software Engineering student, graduated in Systems Analysis and Developmen
 # 💻 Skills:
 As a Full-Stack developer, I have experience in both front-end and back-end development. I have knowledge in several technologies and languages, including:
 
-- Front-End: JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, HTML, CSS, Tailwind CSS, Bulma, Bootstrap, Sass, UI/UX design
-- Back-End: JavaScript (Node.js), TypeScript (Node.js), Express.js, Java, Spring Framework, Maven, Hibernate, Tomcat
-- JavaScript Libraries: Axios, Redux, jQuery, Jest, Cypress and Others...
-- APIs and Protocols: RESTful, SOAP, GraphQL, WebSockets
-- Architecture and Practices: MVC, MVVM, CI/CD, Unit Testing
-- Database: SQL databases and NoSQL databases
-- Tools and Platforms: Docker, Postman, Figma
-- Version Control: Git, GitHub, GitLab
-
+- Front-End: JavaScript - TypeScript - React.js - Next.js - React Native - Vue.js - HTML - CSS - Tailwind - Bulma - Bootstrap - Sass - UI/UX design
+- Back-End: JavaScript (Node.js) - TypeScript (Node.js) - Express.js - Java - Spring - Maven - Hibernate - Tomcat
+- Tests: Cypress - Jest - BDD - TDD - Cucumber - CI/CD - Unit Testing
+- JavaScript Libraries: Axios - Redux - jQuery 
+- APIs and Protocols: RESTful - SOAP - GraphQL - WebSockets
+- Architecture and Practices: MVC - MVVM - Clean Code - SOLID - SCRUM
+- Database: SQL databases - NoSQL databases
+- Tools and Platforms: Docker - Adobe XD - Postman - Figma
+- Version Control: Git - GitHub - GitLab
 <br/>
   
 # 🚀 Projects:
