@@ -15,7 +15,7 @@ As a Full-Stack developer, I have experience in both front-end and back-end deve
 - Front-End: JavaScript - TypeScript - React.js - Next.js - React Native - Vue.js - HTML - CSS - Tailwind - Bulma - Bootstrap - Sass - UI/UX design
 - Back-End: JavaScript (Node.js) - TypeScript (Node.js) - Express.js - Java - Spring - Maven - Hibernate - Tomcat
 - Tests: Cypress - Jest - BDD - TDD - Cucumber - CI/CD - Unit Testing
-- JavaScript Libraries: Axios - Redux - jQuery 
+- Libraries: Axios - Redux - jQuery 
 - APIs and Protocols: RESTful - SOAP - GraphQL - WebSockets
 - Architecture and Practices: MVC - MVVM - Clean Code - SOLID - SCRUM
 - Database: SQL databases - NoSQL databases
