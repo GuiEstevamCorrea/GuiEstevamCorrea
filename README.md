@@ -1,4 +1,4 @@
-# Hello, I'm Guilherme. Welcome to my GitHub Profile! 👋
+# Welcome to my GitHub Profile! 👋
 
 Hello! I'm Guilherme Correa, passionate about creating innovative and efficient solutions, technology and software development. With a background in Systems Analysis and Development and currently studying Software Engineering, I found my passion for software development and today I work as a software developer, using technologies such as JavaScript, TypeScript, React.js, Java and Spring.
 
