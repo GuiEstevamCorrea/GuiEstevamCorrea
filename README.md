@@ -1,38 +1,9 @@
 # Hello, I'm Guilherme. Welcome to my GitHub Profile! 👋
 
-I'm a Software Engineering student, graduated in Systems Analysis and Development, passionate about technology and software development.
-<br/>
+Hello! I'm Guilherme Correa, passionate about creating innovative and efficient solutions, technology and software development. With a background in Systems Analysis and Development and currently studying Software Engineering, I found my passion for software development and today I work as a software developer, using technologies such as JavaScript, TypeScript, React.js, Java and Spring.
 
-# 🎓 Training:
+My focus is to develop applications of high level and value, always seeking to learn and apply the best practices in the sector. I believe the key to success is constantly being up to date and learning something new every day.
 
-- Software Engineering (In progress)
-- Systems Analysis and Development (Graduated)
-<br/>
-
-# 💻 Skills:
-As a Full-Stack developer, I have experience in both front-end and back-end development. I have knowledge in several technologies and languages, including:
-
-- Front-End: JavaScript - TypeScript - React.js - Next.js - React Native - Vue.js - HTML - CSS - Tailwind - Bulma - Bootstrap - Sass - UI/UX design
-- Back-End: JavaScript (Node.js) - TypeScript (Node.js) - Express.js - Java - Spring - Maven - Hibernate - Tomcat
-- Tests: Cypress - Jest - BDD - TDD - Cucumber - CI/CD - Unit Testing
-- Libraries: Axios - Redux - jQuery 
-- APIs and Protocols: RESTful - SOAP - GraphQL - WebSockets
-- Architecture and Practices: MVC - MVVM - Clean Code - SOLID - SCRUM
-- Database: SQL databases - NoSQL databases
-- Tools and Platforms: Docker - Adobe XD - Postman - Figma
-- Version Control: Git - GitHub - GitLab
-<br/>
-  
-# 🚀 Projects:
-On my GitHub you will find a variety of projects that demonstrate my skills and interest in different areas of Software Engineering. I'm always looking to learn new technologies and improve my skills.
-
-<br/>
-
-# 🌱 Goals:
-I'm constantly evolving and improving to become an even more competent developer. My goal is to contribute to open-source projects, learn from the GitHub community, and share my own projects to help other developers.
-
-Feel free to explore my repositories and get in touch. I am open to collaborations and discussions about technology and software development. Let's learn and grow together! 🤝
-
-<br/>
+Want to know more about me and my work? Contact!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiestevamcorrea/ )
