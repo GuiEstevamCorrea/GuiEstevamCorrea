@@ -11,7 +11,8 @@ With this combination of skills, I am prepared to face complex challenges and co
 
 Want to know more about me and my work? Contact!
 
-💻 Github: https://github.com/GuiEstevamCorrea
+💻 Github: https://github.com/GuiEstevamCorrea  
+
 📧 Email: guilhermecorrea.2002@gmail.com
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiestevamcorrea/ )
