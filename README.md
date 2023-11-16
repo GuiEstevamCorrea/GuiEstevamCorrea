@@ -1,20 +1,36 @@
-# Welcome to my GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
-Hello, my name is Guilherme Correa and I am a developer passionate about creating innovative solutions and always learning new technologies.
+Greetings! I'm Guilherme Correa, a passionate development enthusiast dedicated to crafting innovative solutions and constantly expanding my expertise in cutting-edge technologies.
 
-Over the last few years, I have been working as a full stack developer, exploring different technologies to create innovative solutions. Currently, I am more focused on back-end development, where I mainly use Java, Spring, Typescript and Node.js. In this position, I have the opportunity to work with different solutions and SQL and NoSQL databases.
+## 🚀 About Me
 
-In addition to my training in Systems Analysis and Development at Anhembi Morumbi, I bring a valuable wealth of knowledge from my experiences as a Freelance Full Stack Developer and Full Stack Analyst.
+In the last few years, I've embraced a diverse role as a full-stack developer, exploring various technologies to architect innovative solutions. My current focus lies in back-end development, where I leverage Java, Spring, Typescript, and Node.js. I bring solid experience in handling a variety of SQL and NoSQL solutions and databases.
 
-During my graduation and in my current studies in Software Engineering, I developed skills in this area that were consolidated in my work as a software developer. With this combination of skills, I am prepared to face complex challenges and contribute effective solutions for project growth.
+My education in Systems Analysis and Development at Anhembi Morumbi laid a robust foundation, further enriched by my experiences as a Freelance Full Stack Developer and Full Stack Analyst.
 
-Want to know more about me and my work? Contact!
+Throughout my academic journey and ongoing studies in Software Engineering, I've honed significant skills that find application in my role as a software developer. This skill set equips me to tackle complex challenges and contribute effective solutions for project growth.
 
-<a href="mailto:guilhermecorrea.2002@gmail.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+## 💻 GitHub
 
-<a href="https://www.linkedin.com/in/guiestevamcorrea/" style="display: inline-block; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+Explore my repositories on GitHub: [GuiEstevamCorrea](https://github.com/GuiEstevamCorrea)
+
+## 📧 Contact
+
+Feel free to reach out! I'd love to connect and discuss exciting opportunities.
+
+- **Email:** guilhermecorrea.2002@gmail.com
+
+- **LinkedIn:** [GuiEstevamCorrea](https://www.linkedin.com/in/guiestevamcorrea/)
+
+
+## 🌱 Technologies & Skills
+
+- **Languages:** Java, Typescript
+- **Frameworks:** Spring, Node.js
+- **Databases:** SQL, NoSQL
+- **Additional Skills:** Full Stack Development, Software Engineering
+
+## 🛠️ Projects
+
+Explore some of my notable projects on GitHub. Your feedback is always appreciated!
 
