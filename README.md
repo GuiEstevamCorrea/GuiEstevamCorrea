@@ -10,9 +10,12 @@ My education in Systems Analysis and Development at Anhembi Morumbi laid a robus
 
 Throughout my academic journey and ongoing studies in Software Engineering, I've honed significant skills that find application in my role as a software developer. This skill set equips me to tackle complex challenges and contribute effective solutions for project growth.
 
-## 💻 GitHub
+## 🌱 Technologies & Skills
 
-Explore my repositories on GitHub: [GuiEstevamCorrea](https://github.com/GuiEstevamCorrea)
+- **Languages:** Java, Typescript
+- **Frameworks:** Spring, Node.js
+- **Databases:** SQL, NoSQL
+- **Additional Skills:** Full Stack Development, Software Engineering
 
 ## 📧 Contact
 
@@ -21,14 +24,6 @@ Feel free to reach out! I'd love to connect and discuss exciting opportunities.
 - **Email:** guilhermecorrea.2002@gmail.com
 
 - **LinkedIn:** [GuiEstevamCorrea](https://www.linkedin.com/in/guiestevamcorrea/)
-
-
-## 🌱 Technologies & Skills
-
-- **Languages:** Java, Typescript
-- **Frameworks:** Spring, Node.js
-- **Databases:** SQL, NoSQL
-- **Additional Skills:** Full Stack Development, Software Engineering
 
 ## 🛠️ Projects
 
