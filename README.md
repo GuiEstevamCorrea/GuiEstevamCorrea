@@ -2,7 +2,7 @@
 
 Hello, my name is Guilherme Correa and I am a developer passionate about creating innovative solutions and always learning new technologies.
 
-Over the last few years, I have been working as a full stack developer, exploring different technologies to create innovative solutions. Currently, I continue to work with full stack development, where I mainly use Java, Spring, .NET, ASP.NET, Node.js, and React.js. In this position, I have the opportunity to work with different solutions and SQL and NoSQL databases.
+Over the last few years, I have been working as a full stack developer, exploring different technologies to create innovative solutions. Currently, I am more focused on back-end development, where I mainly use Java, Spring Boot and PostgreSQL. In this position, I have the opportunity to work with different solutions and SQL and NoSQL databases.
 
 In addition to my training in Systems Analysis and Development at Anhembi Morumbi, I bring a valuable wealth of knowledge from my experiences as a Freelance Full Stack Developer and Full Stack Analyst.
 
