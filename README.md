@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=1000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=1000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=2000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=2000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme;)
 
 
 ---
