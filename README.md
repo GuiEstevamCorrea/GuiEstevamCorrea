@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=2000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=2000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme;)
 
+<br><br>
 
----
 # 🚀 About Me
 In the last few years, I've embraced a diverse role as a full-stack developer, exploring various technologies to architect innovative solutions. My current focus lies in back-end development, where I leverage Java, Spring, Typescript, and Node.js. I bring solid experience in handling a variety of SQL and NoSQL solutions and databases.
 
