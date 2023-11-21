@@ -10,6 +10,15 @@ My education in Systems Analysis and Development at Anhembi Morumbi laid a robus
 
 Throughout my academic journey and ongoing studies in Software Engineering, I've honed significant skills that find application in my role as a software developer. This skill set equips me to tackle complex challenges and contribute effective solutions for project growth.
 
+<h5>Contact me: </h5>
+<a href="guilhermecorrea.2002@hotmail.com">
+  <img height="40" width="40"  src="https://th.bing.com/th/id/OIP.SmU8sSNREMl-gnrlPBq-TAHaHb?rs=1&pid=ImgDetMain" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/guiestevamcorrea/">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+</a>
+
+<br>
 <br>
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiEstevamCorrea&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiEstevamCorrea&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiEstevamCorrea&theme=nord_dark) |
@@ -20,26 +29,27 @@ Throughout my academic journey and ongoing studies in Software Engineering, I've
 
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">🌱 Principal skills</h1>
-    <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Spring" height="50" width="50" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg">
-    <img align="center" alt="Typescript" height="50" width="50" src="https://jafs.es/wp-content/uploads/2022/01/typescript_logo.png">
-    <img align="center" alt="Node" height="50" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-909x1024-ig4gm9k7.png">
-   </div>
+# 🌱 Principal skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,angular,cs,dotnet,docker,postgres,mongodb,linux,idea&theme=dark" />
+  </a>
+</p>
 
 <br>
    
 # 🛠️ Projects
 
-[Fake API](https://github.com/GuiEstevamCorrea/Fake_API)<br>
-[PicPay Simplificado](https://github.com/GuiEstevamCorrea/PicPay_Simplificado)<br>
-[Products API RESTful](https://github.com/GuiEstevamCorrea/products_API_RESTful)
+<p align="center">
+  <a href="https://github.com/GuiEstevamCorrea/Fake_API">
+    Fake API
+  </a> <br>
+    <a href="https://github.com/GuiEstevamCorrea/PicPay_Simplificado">
+    PicPay Simplificado
+  </a> <br>
+    <a href="https://github.com/GuiEstevamCorrea/products_API_RESTful">
+    Products API RESTful
+  </a>
+</p>
 
-<br>
-
-# 📧 Contact me:
-
-[<img align="center" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/000/425/714/non_2x/vector-email-icon.jpg">](guilhermecorrea.2002@hotmail.com)
-[<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/guiestevamcorrea/)
