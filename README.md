@@ -4,7 +4,7 @@
 <br>
 
 # 🚀 About Me
-In the last few years, I've embraced a diverse role as a full-stack developer, exploring various technologies to architect innovative solutions. My current focus lies in back-end development, where I leverage Java, Spring, Typescript, and Node.js. I bring solid experience in handling a variety of SQL and NoSQL solutions and databases.
+In the last few years, I've embraced a diverse role as a full-stack developer, exploring various technologies to architect innovative solutions. My current focus lies in back-end development, where I leverage Java, Spring, C#, and ASP.NET. I bring solid experience in handling a variety of SQL and NoSQL solutions and databases.
 
 My education in Systems Analysis and Development at Anhembi Morumbi laid a robust foundation, further enriched by my experiences as a Freelance Full Stack Developer and Full Stack Analyst.
 
