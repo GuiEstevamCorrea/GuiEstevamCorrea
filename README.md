@@ -30,7 +30,7 @@ Throughout my academic journey and ongoing studies in Software Engineering, I've
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,angular,cs,dotnet,docker,postgres,mongodb,linux,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,ts,nodejs,docker,postgres,mongodb,linux,idea&theme=dark" />
   </a>
 </p>
 
