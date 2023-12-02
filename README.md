@@ -39,6 +39,9 @@ Throughout my academic journey and ongoing studies in Software Engineering, I've
 # 🛠️ Projects
 
 <p align="center">
+  <a href="https://github.com/GuiEstevamCorrea/Email_Microservice/tree/main">
+   User Microservice 
+  </a> <br/>
   <a href="https://github.com/GuiEstevamCorrea/Fake_API">
     Fake API
   </a> <br>
