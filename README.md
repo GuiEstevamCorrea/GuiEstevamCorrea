@@ -11,14 +11,10 @@ My education in Systems Analysis and Development at Anhembi Morumbi laid a robus
 Throughout my academic journey and ongoing studies in Software Engineering, I've honed significant skills that find application in my role as a software developer. This skill set equips me to tackle complex challenges and contribute effective solutions for project growth.
 
 <h5>Contact me: </h5>
-<a href="guilhermecorrea.2002@hotmail.com">
-  <img height="40" width="40"  src="https://th.bing.com/th/id/OIP.SmU8sSNREMl-gnrlPBq-TAHaHb?rs=1&pid=ImgDetMain" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/guiestevamcorrea/">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-</a>
+Email: guilhermecorrea.2002@hotmail.com  <br/>
+LinkedIn: https://www.linkedin.com/in/guiestevamcorrea/
 
-<br>
+<hr>
 <br>
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiEstevamCorrea&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiEstevamCorrea&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiEstevamCorrea&theme=nord_dark) |
