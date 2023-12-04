@@ -10,6 +10,8 @@ My education in Systems Analysis and Development at Anhembi Morumbi laid a robus
 
 Throughout my academic journey and ongoing studies in Software Engineering, I've honed significant skills that find application in my role as a software developer. This skill set equips me to tackle complex challenges and contribute effective solutions for project growth.
 
+<br/>
+
 ## Contact me: 
 Email: guilhermecorrea.2002@hotmail.com  <br/>
 LinkedIn: https://www.linkedin.com/in/guiestevamcorrea/
