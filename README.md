@@ -37,7 +37,7 @@ LinkedIn: https://www.linkedin.com/in/guiestevamcorrea/
 # 🛠️ Projects
 
 <p align="center">
-  <a href="https://github.com/GuiEstevamCorrea/Email_Microservice/tree/main">
+  <a href="https://github.com/GuiEstevamCorrea/User_Microservice">
    User Microservice 
   </a> <br/>
   <a href="https://github.com/GuiEstevamCorrea/Fake_API">
