@@ -4,11 +4,12 @@
 <br>
 
 # 🚀 About Me
-In the last few years, I've embraced a diverse role as a full-stack developer, exploring various technologies to architect innovative solutions. My current focus lies in back-end development, where I leverage Java, Spring, C#, and ASP.NET. I bring solid experience in handling a variety of SQL and NoSQL solutions and databases.
+Creating the future, line by line!
+#Loyalty #Solution #Innovation
 
-My education in Systems Analysis and Development at Anhembi Morumbi laid a robust foundation, further enriched by my experiences as a Freelance Full Stack Developer and Full Stack Analyst.
+Backend developer focused on high availability and scalability solutions. I've contributed to various projects, refining my skills across multiple technologies and methodologies. 
 
-Throughout my academic journey and ongoing studies in Software Engineering, I've honed significant skills that find application in my role as a software developer. This skill set equips me to tackle complex challenges and contribute effective solutions for project growth.
+Proficient in.NET Framework/Core, AWS, C#, ASP.NET, Java, SpringBoot, Javascript, Typescript, Hibernate, React.js, Node.js, Microservices, TDD, DDD, Unit Testing, Automated Testing, Design Patterns , CI/CD, Clean Code, SOLID, SCRUM, JUnit, Mockito, Jest, Cypress, DevOps, Docker, Kubernetes, Apache Kafka, RabbitMQ, SQL Server, Postgres, MySQL, Redis, DynamoDB, MongoDB, Elastic Search and Git.
 
 <br/>
 
