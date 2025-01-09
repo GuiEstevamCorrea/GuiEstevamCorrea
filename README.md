@@ -7,9 +7,9 @@
 Creating the future, line by line!
 #Loyalty #Solution #Innovation
 
-Backend developer focused on high availability and scalability solutions. I've contributed to various projects, refining my skills across multiple technologies and methodologies. 
+Software engineer with expertise in high availability and scalability solutions, qualified in various technologies and methodologies.
 
-Proficient in.NET Framework/Core, AWS, C#, ASP.NET, Java, SpringBoot, Javascript, Typescript, Hibernate, React.js, Node.js, Microservices, TDD, DDD, Unit Testing, Automated Testing, Design Patterns , CI/CD, Clean Code, SOLID, SCRUM, JUnit, Mockito, Jest, Cypress, DevOps, Docker, Kubernetes, Apache Kafka, RabbitMQ, SQL Server, Postgres, MySQL, Redis, DynamoDB, MongoDB, Elastic Search and Git.
+I have advanced experience in .NET Core, .NET Framework, C#, ASP.NET, Entity Framework, Dapper, LINQ, SQL Server, PostgreSQL, MySQL, Redis, DynamoDB, MongoDB, LiteDB, Elasticsearch, Influx, Azure, DevOps, Docker, Kubernetes, RabbitMQ, MassTransit, MQTT, Microservices, Java, Spring Framework, SpringBoot, TypeScript, JavaScript, Node.js, Next.js, Angular, React.js, JQuery, Ajax, NUnit, JUnit, Mockito, Jest, Cypress, Design Patterns (Singleton, Facade), Architectural Patterns (Microservices, MVC, SOAP, RESTful), SOLID, DDD, TDD, Automated Tests, Git, GitFlow, SCRUM, CI/CD, SAP, English (C1), Spanish (B2).
 
 <br/>
 
