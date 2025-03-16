@@ -18,12 +18,6 @@ Email: guilhermecorrea.2002@hotmail.com  <br/>
 LinkedIn: https://www.linkedin.com/in/guiestevamcorrea/
 
 <hr>
-<br>
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiEstevamCorrea&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiEstevamCorrea&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiEstevamCorrea&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-<br>
 
 # 🌱 Principal skills
 
